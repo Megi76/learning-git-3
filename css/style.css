@@ -33,5 +33,9 @@ body {
   font-size: 14px;
   font-style: italic;
   padding-left: 20px;
+}
 
+.date {
+  font-size: 20px;
+  color: yellow;
 }
