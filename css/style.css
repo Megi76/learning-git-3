@@ -1,0 +1,37 @@
+/*Global*/
+
+$font-text: 'Titillium Web', sans-serif;
+
+*, *::before, *::after {
+        box-sizing: border-box;
+}
+
+body {
+  margin-left: 30px;
+  font-size: 16px;
+  color: black;
+  font-family: $font-text;
+}
+
+.container {
+  max-width: 1140px;
+  padding: 20px 20px;
+  margin: 0 auto;
+}
+
+.title {
+  font-size: 25px;
+  color: red;
+}
+
+.artist {
+  font-size: 20px;
+  color: orange;
+}
+
+.text {
+  font-size: 14px;
+  font-style: italic;
+  padding-left: 20px;
+
+}
